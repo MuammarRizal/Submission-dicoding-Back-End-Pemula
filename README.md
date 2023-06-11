@@ -1,4 +1,4 @@
-<img src="https://github.com/MuammarRizal/Submission-dicoding-Back-End-Pemula/assets/111135024/f644752f-cacf-4121-be96-66301fc2b4c5" alt="Dicoding" title="dicoding" />
+<img src="https://github.com/MuammarRizal/Submission-dicoding-Back-End-Pemula/assets/111135024/f644752f-cacf-4121-be96-66301fc2b4c5" alt="Dicoding" title="dicoding" width="100%"/>
 
   <br>
   
