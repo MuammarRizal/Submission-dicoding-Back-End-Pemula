@@ -2,7 +2,7 @@
 
   <br>
   
-# Submission-dicoding-Back-End-Pemula!
+# Submission dicoding back End Pemula!
 ## Bukti Kelulusan (<a href="https://www.dicoding.com/certificates/RVZKOEDNQPD5">Sertifikat </a>)
 
 Kelas ini ditujukan untuk individu yang ingin melangkah menjadi seorang Back-End Developer dengan standar kompetensi internasional milik AWS. Di akhir kelas, siswa dapat membuat RESTful API sederhana secara mandiri untuk mendukung fungsionalitas suatu aplikasi.
@@ -21,3 +21,27 @@ Evaluasi Pembelajaran :
 
 Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan kelas sampai evaluasi belajar, adalah 45 jam.
 
+### Dokumentasi
+Buka terminal / git bash
+
+<br>
+
+1. Clone Repository ini 
+```bash
+  git clone https://github.com/MuammarRizal/Submission-dicoding-Back-End-Pemula.git
+```
+
+2. Masuk ke folder Submission-dicoding-back-end-pemula
+```bash
+  cd Submission-dicoding-back-end-pemula
+```
+
+3. Install Dependencies
+```bash
+  $ npm install
+```
+
+4. Jalankan pada localhost: 9000
+```
+  $ npm run start-dev
+```
